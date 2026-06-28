@@ -113,9 +113,7 @@ PORT=5000
 **Haresh Kumar**
 
 * GitHub: https://github.com/Haresh-kumar28
-* LinkedIn: *(Add your LinkedIn profile URL here)*
-
----
+* LinkedIn: https://www.linkedin.com/in/haresh-kumar-2b8860314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## ⭐ If you found this project useful
 
